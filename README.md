@@ -8,7 +8,7 @@
 
 📈 Dashboard Preview
 
-
+![ Cancer Dashboard](https://github.com/ahmadyase1234/Cancer-analysis-dashboard-/blob/main/IMG-20250413-WA0108(1).jpg)
 
 
 ---
