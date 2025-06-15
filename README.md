@@ -1,10 +1,8 @@
 
 🧬 Cancer Analysis Dashboard – Power BI Project
 
-🔗 My LinkedIn
-(https://www.linkedin.com/in/ahmad-yasser-faiq-data-analyst/)
-📥 Download the PBIX File
-https://github.com/ahmadyase1234/Cancer-analysis-dashboard-/blob/main/cancer%20anaylis.pbix
+**🔗 [My LinkedIn](https://www.linkedin.com/in/ahmad-yasser-faiq-data-analyst/)**  
+**📥 [Download the PBIX File](https://github.com/ahmadyase1234/oral-cancer-analysis/blob/main/oral%20cancer%20analysis/Oral%20cancer.pbix?raw=true)**  
 
 ---
 
